@@ -1,5 +1,5 @@
 // mock database 
-let FLAGS = ['auctions', 'connect'];
+let FLAGS = ['auctions', 'connect']; // change this to simulate feature flag toggle
 
 const getFlags = () => {
     return FLAGS;
